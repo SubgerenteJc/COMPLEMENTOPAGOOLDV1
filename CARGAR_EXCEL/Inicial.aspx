@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>TDR | Complementos de Pago</title>
+    <title>TDR | Complementos de Pagos</title>
     <link rel="shortcut icon" href="images/icono-tdr-soluciones-logisticas.ico" />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
